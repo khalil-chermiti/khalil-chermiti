@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Khalil</h1>
 <h3 align="center">student and a passionate programmer 💻</h3>
 
-<p align="left"> <a href="https://twitter.com/khalilishere666" target="blank"><img src="https://img.shields.io/twitter/follow/khalil-666?logo=twitter&style=for-the-badge" alt="khalil-666" /></a> </p>
+<p align="left"> <a href="https://twitter.com/khalilishere666" target="blank"><img src="https://img.shields.io/twitter/follow/khalilishere666?logo=twitter&style=for-the-badge" alt="khalil-666" /></a> </p>
 
 - 🌱 I’m currently learning **javascript and C**
 
